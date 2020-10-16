@@ -1,0 +1,20 @@
+{
+  "name": "node-express-minin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raustime/node-express-minin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raustime/node-express-minin/issues"
+  },
+  "homepage": "https://github.com/raustime/node-express-minin#readme"
+}
